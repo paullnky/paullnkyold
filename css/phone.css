@@ -18,6 +18,9 @@
         font-size: 80px;
         line-height: 80px;
 		margin-top: 30px;
+		margin-left: 5%;
+		margin-right: 5%;
+		width: 90%;
       }
       h2 {
         font-size: 32px;
@@ -26,15 +29,19 @@
 
 .topnav {
     background-color: black;
+	line-height: 10px;
+	margin-left: 10%;
+	margin-right: 10%;
+	width: 80%;
+	text-align: center;
 }
 
 .topnav a {
     float: center;
     color: white;
     text-align: center;
-    padding: 14px 16px;
     text-decoration: none;
-    font-size: 30px;
+    font-size: 25px;
 	display: inline-block;
 }
 
@@ -47,18 +54,18 @@
 	hr { 
 		width: 90%;
 		height: 4px; 
-		margin: 6px auto;
 		color: white;
 		background: white;
 	}
 	
 div.gallery {
-    margin: 50px;
 	margin-left: 5%;
 	margin-right: 5%;
     float: center;
     width: 90%;
 	text-align: center;
+	margin-bottom: 30px;
+	margin-top: 30px;
 }
 
 div.gallery img {
@@ -68,12 +75,13 @@ div.gallery img {
 }
 
 div.galleryda {
-    margin: 50px;
 	margin-left: 5%;
 	margin-right: 5%;
     float: center;
     width: 90%;
 	text-align: center;
+	margin-bottom: 30px;
+	margin-top: 30px;
 }
 
 div.galleryda img {
@@ -89,13 +97,14 @@ div.desc {
 }
 
 div.textpost {
-    margin: 50px;
 	margin-left: 5%;
 	margin-right: 5%;
     float: center;
     width: 90%;
-	text-align: left;
+	text-align: justify;
 	font-size: 20px;
+	margin-bottom: 30px;
+	margin-top: 30px;
 }
 
 a {

@@ -1,0 +1,111 @@
+      html {
+        background-color: {color:black};
+            -webkit-font-smoothing: antialiased;
+      }
+      body {
+        color: white;
+        font-family: 'Fang Song', sans-serif;
+        font-size: 12px;
+        line-height:1.8em;
+		background-color: black;
+		text-align: center;
+      }
+      h1, h2, h3, h4, h5 {
+        font-family: 'Fang Song',;
+        font-weight: 400;
+      }
+      h1 {
+        font-size: 80px;
+        line-height: 80px;
+		margin-top: 30px;
+      }
+      h2 {
+        font-size: 32px;
+        line-height: 38px;
+      }
+
+.topnav {
+    background-color: black;
+}
+
+.topnav a {
+    float: center;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 30px;
+	display: inline-block;
+}
+
+.topnav a:hover {
+    background-color: #black;
+    color: lightgrey;
+	text-decoration: underline;
+}
+
+	hr { 
+		width: 60%;
+		height: 4px; 
+		margin: 6px auto;
+		color: white;
+		background: white;
+	}
+	
+div.gallery {
+    margin: 50px;
+	margin-left: 20%;
+	margin-right: 20%;
+    float: center;
+    width: 60%;
+	text-align: center;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+	text-align: center;
+}
+
+div.galleryda {
+    margin: 50px;
+	margin-left: 30%;
+	margin-right: 30%;
+    float: center;
+    width: 40%;
+	text-align: center;
+}
+
+div.galleryda img {
+    width: 100%;
+    height: auto;
+	text-align: center;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: left;
+	font-size: 20px;
+}
+
+div.textpost {
+    margin: 50px;
+	margin-left: 20%;
+	margin-right: 20%;
+    float: center;
+    width: 60%;
+	text-align: left;
+	font-size: 20px;
+}
+
+a {
+    color: white;
+    text-decoration: underline;
+    font-size: 15px;
+}
+
+a:hover {
+    background-color: #black;
+    color: lightgrey;
+	text-decoration: none;
+}

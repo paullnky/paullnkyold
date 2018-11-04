@@ -64,8 +64,8 @@ div.gallery {
     float: center;
     width: 90%;
 	text-align: center;
-	margin-bottom: 30px;
-	margin-top: 30px;
+	margin-bottom: 50px;
+	margin-top: 50px;
 }
 
 div.gallery img {
@@ -80,8 +80,8 @@ div.galleryda {
     float: center;
     width: 90%;
 	text-align: center;
-	margin-bottom: 30px;
-	margin-top: 30px;
+	margin-bottom: 50px;
+	margin-top: 50px;
 }
 
 div.galleryda img {
@@ -103,8 +103,8 @@ div.textpost {
     width: 90%;
 	text-align: justify;
 	font-size: 20px;
-	margin-bottom: 30px;
-	margin-top: 30px;
+	margin-bottom: 50px;
+	margin-top: 50px;
 }
 
 a {

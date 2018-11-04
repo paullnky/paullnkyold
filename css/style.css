@@ -103,8 +103,9 @@ div.textpost {
     float: center;
     width: 60%;
 	text-align: justify;
-	font-size: 40px;
+	font-size: 25px;
 	margin-bottom: 50px;
+	line-height: 25px;
 }
 
 a {

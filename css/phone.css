@@ -29,17 +29,17 @@
 
 .topnav {
     background-color: black;
-	line-height: 10px;
-	margin-left: 10%;
-	margin-right: 10%;
-	width: 80%;
-	text-align: center;
+	max-width: 100%;
+	margin-left: 5%;
+	margin-right: 5%;
+	width: 90%;
 }
 
 .topnav a {
     float: center;
     color: white;
     text-align: center;
+	padding: 1% 5%;
     text-decoration: none;
     font-size: 30px;
 	display: inline-block;

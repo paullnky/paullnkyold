@@ -119,13 +119,3 @@ a:hover {
     color: lightgrey;
 	text-decoration: none;
 }
-
-.footer {
-    width: 100%;
-    background-color: black;
-    color: white;
-    text-align: center;
-	font-size: 30px;
-	margin-bottom: 50px;
-	position: absolute;
-}

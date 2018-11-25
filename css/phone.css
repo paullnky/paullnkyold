@@ -119,3 +119,16 @@ a:hover {
     color: lightgrey;
 	text-decoration: none;
 }
+
+        #playlist{
+            list-style: none;
+        }
+        #playlist li a{
+            color:white;
+            text-decoration: none;
+			font-size: 30px;
+			line-height: 30px;
+        }
+		#playlist .current-song a{
+            color:lightgrey;
+        }

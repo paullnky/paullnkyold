@@ -11,7 +11,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(1000, 1000);
+  createCanvas(windowWidth, windowHeight);
 
   var smoothing = 0.01;
   var bins = 1024;
